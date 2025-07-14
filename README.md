@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi there, I'm Amirabbas Haghgoo (Ben Codes)
 
-<!--
-**TDMxHOKO/TDMxHOKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Front‑End Developer with a passion for clean design and responsive UI  
+🛠️ Tech Stack: HTML5, CSS3, Bootstrap 5, JavaScript ES6  
+📚 Currently learning Python & Machine Learning (AI/NLP)  
+💼 Looking for freelance or remote job opportunities  
+🌍 Based in Iran — working worldwide 🌐
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Skills
+
+- ✅ HTML5, CSS3, Bootstrap 5
+- ✅ Responsive Design (Mobile‑First)
+- ✅ JavaScript (DOM manipulation, ES6+)
+- ✅ Git & GitHub (version control)
+
+---
+
+### 📌 Pinned Projects
+
+Check out some of my work in the pinned repositories above ⬆️  
+I am actively improving my skills and building real-world projects.
+
+---
+
+### 📫 Get in Touch
+
+Email: Tahahaghgoo1385@gmail.com
+Telegram: [@yourtelegram](https://t.me/Noname_216)
