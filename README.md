@@ -28,4 +28,4 @@ I am actively improving my skills and building real-world projects.
 
 Email: Tahahaghgoo1385@gmail.com
 
-Telegram: [@yourtelegram](https://t.me/Noname_216)
+Telegram: [@mytelegram](https://t.me/Noname_216)
